@@ -2,10 +2,6 @@
 """
 Etapa 1 — Preparacao dos dados.
 
-Le o arquivo bruto da pesquisa, seleciona as variaveis categoricas analisadas,
-traduz as categorias para portugues e aplica o agrupamento das escalas ordinais
-de cinco pontos.
-
 Regra de agrupamento
     niveis 1 e 2 -> "Baixo (1-2)"
     nivel  3     -> "Neutro (3)"
