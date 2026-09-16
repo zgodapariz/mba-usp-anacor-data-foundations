@@ -1,0 +1,40 @@
+﻿Variável,Pergunta_original,Tipo,Regra,Respostas,Categorias_originais,Categorias_finais
+Senioridade,What is your current seniority level?,CAT,não se aplica (categórica),30,5,5
+Área funcional,Which functional area do you primarily belong to?,CAT,não se aplica (categórica),30,8,8
+Porte da organização,What is the approximate number of employees in your organization?,CAT,não se aplica (categórica),30,4,4
+Setor de atuação,What is your organization’s primary industry sector?,CAT,não se aplica (categórica),30,9,9
+Tempo de iniciativa formal,"For how long has your organization maintained a formal, funded initiative related to a centralized data platform or Data Foundation?",CAT,não se aplica (categórica),30,3,3
+Maturidade: integração e consolidação de dados,Data Integration & Consolidation,L5,agrupada em 1-2 / 3 / 4-5,30,4,3
+Maturidade: governança e curadoria de dados,Data Governance & Stewardship,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Maturidade: gestão da qualidade de dados,Data Quality Management,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Maturidade: segurança e conformidade de dados,Data Security & Compliance,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Maturidade: acessibilidade e democratização de dados,Data Accessibility & Democratization,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Maturidade: gestão e catalogação de metadados,Metadata Management & Cataloging,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Maturidade: operacionalização de IA/ML,AI/ML Operationalization,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Maturidade: analytics de autoatendimento,Self-Service Analytics,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Maturidade: gestão de produtos de dados,Data Product Management,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Arquitetura da plataforma de dados,Which architecture concept best describes your primary data platform?,CAT,não se aplica (categórica),29,5,5
+Modelo operacional da organização de dados,Which operating model best describes your data organization?,CAT,não se aplica (categórica),29,5,5
+Preparação para IA Generativa,How prepared is your organization’s Data Foundation to support Generative AI initiatives?,L5,agrupada em 1-2 / 3 / 4-5,29,5,3
+Tendência do investimento,How would you describe the trend in financial investment in your Data Foundation over the past three years?,CAT,não se aplica (categórica),30,3,3
+Direcionador estratégico do investimento,What was the primary strategic driver for initiating or scaling investments in your Data Foundation?,CAT,não se aplica (categórica),30,3,3
+Definição de prioridades,How are priorities for Data Foundation initiatives typically defined?,CAT,não se aplica (categórica),30,5,5
+Estimativa de investimento anual,How would you estimate the annual investment dedicated to Data Foundation initiatives?,CAT,não se aplica (categórica),30,6,6
+Importância: valor de negócio esperado,Expected business value,L5,agrupamento não aplicado (restariam <3 categorias),30,3,3
+Importância: conformidade regulatória,Regulatory/ compliance requirements,L5,agrupada em 1-2 / 3 / 4-5,30,4,3
+Importância: potencial de redução de custos,Cost reduction potential,L5,agrupada em 1-2 / 3 / 4-5,29,4,3
+Importância: habilitação de IA/analytics,AI/analytics enablement,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Importância: patrocínio executivo,Executive sponsorship,L5,agrupamento não aplicado (restariam <3 categorias),30,3,3
+Importância: viabilidade técnica,Technical feasibility,L5,agrupada em 1-2 / 3 / 4-5,30,4,3
+Importância: melhoria da qualidade dos dados,Data quality improvement,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Importância: urgência das áreas de negócio,Urgency from business teams,L5,agrupada em 1-2 / 3 / 4-5,30,4,3
+Importância: otimização de nuvem/infraestrutura,Cloud/infrastructure optimization,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Importância: necessidades de governança e padronização,Governance and standardization needs,L5,agrupada em 1-2 / 3 / 4-5,30,5,3
+Percepção de ROI,To what extent do you agree that the Data Foundation has generated a positive return on investment (ROI)?,CAT,não se aplica (categórica),30,6,6
+Alinhamento entre expectativa e valor entregue,How aligned are the strategic expectations and the actual value delivered by the Data Foundation?,CAT,não se aplica (categórica),30,4,4
+Desafio: técnico,Technical challenges,L5,agrupada em 1-2 / 3 / 4-5,29,5,3
+Desafio: relacionado aos dados,Data-related challenges,L5,agrupada em 1-2 / 3 / 4-5,29,5,3
+Desafio: financeiro,Financial challenges,L5,agrupada em 1-2 / 3 / 4-5,29,4,3
+Desafio: processo e governança,Process/governance challenges,L5,agrupada em 1-2 / 3 / 4-5,29,4,3
+Desafio: pessoas e cultura,People and cultural challenges,L5,agrupada em 1-2 / 3 / 4-5,29,4,3
+Foco futuro da Data Foundation,"Looking ahead 1–2 years, what is the primary focus for the evolution of your Data Foundation?",CAT,não se aplica (categórica),29,5,5
