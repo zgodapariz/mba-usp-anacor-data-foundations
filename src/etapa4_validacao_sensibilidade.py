@@ -2,20 +2,6 @@
 """
 Etapa 4 — Validacao e analise de sensibilidade.
 
-Tres verificacoes:
-
-1. VALIDACAO. Reproduz a analise sem agrupamento (dados como coletados) para
-   confirmar que o pipeline recupera exatamente os pares selecionados na
-   Tabela 2 do trabalho.
-
-2. SENSIBILIDADE. Mede o efeito das duas decisoes metodologicas que mais
-   afetam o resultado: aplicar ou nao a regra de excecao ao agrupamento, e
-   agrupar ou nao a escala verbal de preparacao para IA Generativa.
-
-3. COMPARACAO DE FAMILIAS. Contrasta a correcao de FDR aplicada em uma unica
-   etapa, sobre todos os pares, com a correcao aplicada em duas etapas — sobre
-   os pares previamente selecionados sem agrupamento. A diferenca entre as duas
-   respostas explica por que o numero de pares retidos varia.
 
 Saidas
     resultados/validacao_e_sensibilidade.xlsx
