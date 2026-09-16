@@ -2,18 +2,6 @@
 """
 Etapa 2 — Tabelas de contingencia e procedimentos estatisticos.
 
-Para cada par de variaveis:
-    1. tabela de contingencia via pandas.crosstab  (salva em CSV);
-    2. teste qui-quadrado de independencia (sem correcao de continuidade);
-    3. V de Cramer como medida de magnitude;
-    4. inercia total da tabela (qui-quadrado / N);
-    5. diagnostico de frequencias esperadas inferiores a 5.
-
-Ao final, a correcao de Benjamini-Hochberg e aplicada UMA VEZ, sobre a familia
-completa dos pares testados. Restringir a correcao a um subconjunto escolhido
-apos ver os resultados tornaria o procedimento circular e subestimaria a taxa
-de falsos descobrimentos.
-
 Saidas
     resultados/contingencia/*.csv     uma tabela por par
     resultados/analise_pares.xlsx     planilha com todos os pares e abas de apoio
