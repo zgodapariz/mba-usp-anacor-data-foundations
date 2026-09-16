@@ -2,19 +2,6 @@
 """
 Etapa 3 — Analise de Correspondencia Simples (ANACOR) e mapas perceptuais.
 
-Executa a ANACOR nos pares que permaneceram significativos apos a correcao de
-FDR e, para referencia, tambem nos pares que haviam sido selecionados na analise
-sem agrupamento (lista PARES_REFERENCIA, preenchida pela etapa 4).
-
-Convencoes dos mapas
-    · a legenda identifica as variaveis pelos seus nomes;
-    · os dois eixos usam a mesma escala, condicao necessaria para que as
-      distancias no plano sejam comparaveis entre as dimensoes;
-    · categorias de massa muito reduzida projetadas a grande distancia da origem
-      ficam fora do enquadramento e sao declaradas em nota, com coordenadas;
-    · os rotulos sao reposicionados para evitar sobreposicao e nao extrapolar a
-      area do grafico.
-
 Saidas
     resultados/mapas/*.png
     resultados/anacor/*.csv        coordenadas, inercia, contribuicoes, cos²
